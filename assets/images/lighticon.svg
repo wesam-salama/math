@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.372" height="34.315" viewBox="0 0 33.372 34.315">
+  <g id="Group_6900" data-name="Group 6900" transform="translate(-11.814 -314)">
+    <line id="Line_321" data-name="Line 321" x1="3" y1="5" transform="translate(18.5 316.5)" fill="none" stroke="#f9c839" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_326" data-name="Line 326" y1="5" x2="3" transform="translate(35.5 316.5)" fill="none" stroke="#f9c839" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_325" data-name="Line 325" y1="5" transform="translate(28.5 314.5)" fill="none" stroke="#f9c839" stroke-linecap="round" stroke-width="1"/>
+    <g id="Group_28" data-name="Group 28" transform="translate(18.558 321.907)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M5.538,6.351h-4.5A1.034,1.034,0,0,1,0,5.319V1.031A1.034,1.034,0,0,1,1.034,0h4.5A1.034,1.034,0,0,1,6.571,1.031V5.319A1.034,1.034,0,0,1,5.538,6.351ZM.387,5.269v.406H5.98V5.269Zm0-.739v.406H5.98V4.53Zm0-.738V4.2H5.98V3.792Zm0-.739v.406H5.98V3.053Zm0-.738v.406H5.98V2.315Z" transform="translate(6.061 19.557)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Fill_32" data-name="Fill 32" d="M18.694,9.333A9.347,9.347,0,1,0,5.441,17.811v2.47A1.115,1.115,0,0,0,6.557,21.4h5.58a1.115,1.115,0,0,0,1.116-1.114v-2.47a9.331,9.331,0,0,0,5.441-8.478" transform="translate(0 0)" fill="#f9c839"/>
+      <path id="Fill_33" data-name="Fill 33" d="M2.067,2.677H0A4.44,4.44,0,0,0,3,0V2.1s-.1.58-.937.58" transform="translate(9.67 18.188)" fill="#f8d331"/>
+      <path id="Fill_34" data-name="Fill 34" d="M0,4.813A8.334,8.334,0,0,1,11.07.778c-.129,0-.257,0-.385,0A16.053,16.053,0,0,0,0,4.813" transform="translate(1.936 0.912)" fill="#f8d331"/>
+      <rect id="Rectangle_2627" data-name="Rectangle 2627" width="3.5" height="0.9" rx="0.45" transform="translate(7.442 25.293)" fill="#fff"/>
+    </g>
+    <line id="Line_322" data-name="Line 322" x1="5" y1="3" transform="translate(12.5 323.5)" fill="none" stroke="#f9c839" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_327" data-name="Line 327" y1="3" x2="5" transform="translate(39.5 323.5)" fill="none" stroke="#f9c839" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
